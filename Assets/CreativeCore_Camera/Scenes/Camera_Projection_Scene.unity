@@ -2967,6 +2967,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 0
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
@@ -3011,7 +3012,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 2.13
   m_Depth: 0
   m_CullingMask:
@@ -3035,8 +3036,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1630638263}
-  m_LocalRotation: {x: -0.1418205, y: 0.120512426, z: -0.01759209, w: -0.98237175}
-  m_LocalPosition: {x: 9.019798, y: 14.042625, z: -30.93929}
+  m_LocalRotation: {x: -0.18329935, y: 0.1416, z: -0.02669171, w: -0.9724394}
+  m_LocalPosition: {x: -0.4884779, y: 1.892781, z: -3.093918}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
